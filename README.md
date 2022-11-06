@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="Menezess42-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1038944489626144821/1038944742844670033/Sem_titulo.png">
+<img align="left" alt="Menezess42-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1038944489626144821/1038944742844670033/Sem_titulo.png">
 <h1 align="center">Hi there, Ariel🧜‍♀️ Menezes here 👋</h2>
 
 <h3>• 🔭 I’m currently working on my capstone project </h3>
