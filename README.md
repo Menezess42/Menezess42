@@ -1,12 +1,17 @@
-## Hi there, Ariel🧜‍♀️ Menezes here 👋
-- 🔭 I’m currently working on my capstone project 
-- 🌱 I’m currently learning computer vision with python
+<div align="center">
+<img align="center" alt="Menezess42-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1038944489626144821/1038944742844670033/Sem_titulo.png">
+<h1 align="center">Hi there, Ariel🧜‍♀️ Menezes here 👋</h2>
+
+<h3>• 🔭 I’m currently working on my capstone project </h3>
+<h3>• 🌱 I’m currently learning computer vision with python </h3>
+</div>
+
 ----
+
 <div align="center">
   <a href="https://github.com/Menezess42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Menezess42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menezess42&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  
  <div style="display: inline_block" align="center">
    <br>
@@ -21,6 +26,21 @@
 ##
   <div align="center"> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://web.whatsapp.com/send?phone=5518997709058">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="https://t.me/Menezess42">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  </a>
+  <!--
+  <a>
+  	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+   </a>
+   -->
+ </div>  
+   
 ##
