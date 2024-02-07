@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, Ariel🧜‍♀️ Menezes here 👋</h2>
 
 <h3>• 🔭 I’m currently working on my capstone project </h3>
-<h3>• 🌱 I’m currently learning machine learning with python </h3>
+<h3>• 🌱 I’m currently learning machine learning  </h3>
 </div>
 
 ----
