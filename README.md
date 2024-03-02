@@ -1,6 +1,6 @@
 <div align="center">
 <img align="left" alt="Menezess42-pic" height="160" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1038944489626144821/1038944742844670033/Sem_titulo.png?ex=65ee35b1&is=65dbc0b1&hm=3ded0405db0af3c4274fc64797077dbf613b9aafbe7c8ebb65ac5a0047acabbd&">
-<h1 align="center">Hi there, Ariel🧜‍♀️ Menezes here 👋</h1>
+<h2 align="center">Hi there, Ariel🧜‍♀️ Menezes here 👋</h2>
 
 <h3>• 🔭 I’m currently working on my capstone project </h3>
 <h3>• 🌱 I’m currently focusing on ML for my capstone Project  </h3>
