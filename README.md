@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, Ariel🧜‍♀️ Menezes here 👋</h2>
 
 <h3>• 🔭 I’m currently working on my capstone project </h3>
-<h3>• 🌱 I’m currently learning nix, nixOS, nix flakes to develop my OS (MezOS)  </h3>
+<h3>• 🌱 I’m currently focusing on ML for my capstone Project  </h3>
 </div>
 
 ----
