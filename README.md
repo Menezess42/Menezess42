@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🎓 I am currently pursuing a master's degree at UNESP  
+- 🎓 I am currently pursuing a master's degree in computer science at UNESP  
 
 - 🧑‍💻 I have a bachelor's degree in computer science from UNOESTE  
 
