@@ -1,7 +1,4 @@
-<div align="center">
-
 # 💫 About Me:
-</div>
 
 - 🎓 I am currently pursuing a master's degree in computer science at UNESP  
 
@@ -19,11 +16,7 @@
 
 - 📚 I enjoy reading every night before bed  
 
-<div align='center'>
-
 ## 🌐 Socials:
-
-</div>
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nuxsPgvA)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@DwarfForge) 
@@ -35,10 +28,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dwarf_forge_)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Dwarf_Forge) 
 
-<div align="center">
-
 # 💻 Tech Stack:
-</div>
 
 - ### 🔥 Core Stack
     - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PyTest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=black)
@@ -55,11 +45,7 @@
 - ### 🧰 Other Tools & Languages (used when needed)
     - JavaScript · TypeScript · Bash · Lua · React · Electron · LaTeX
 
-<div align="center">
-
 # 📊 GitHub Stats:
-</div>
-
 ![](https://github-readme-stats.vercel.app/api?username=Menezess42&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Menezess42&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Menezess42&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
